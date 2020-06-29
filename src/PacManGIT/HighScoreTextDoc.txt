@@ -1,0 +1,16 @@
+
+Kallee-Einar;297
+Lina;255
+Christoffer;204
+Annaclara;197
+null;196
+Anders;190
+Hjalmarsson;186
+Adrian;177
+Annaclara;139
+Christoffer;120
+null;0
+null;0
+null;0
+null;0
+null;0
