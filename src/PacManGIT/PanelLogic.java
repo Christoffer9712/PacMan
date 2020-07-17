@@ -24,7 +24,7 @@ import javax.swing.JOptionPane;
 public class PanelLogic extends JPanel implements Runnable {
 
     public static int xFrameSize, yFrameSize;
-    public int nbrLivesStart = 5;
+    public int nbrLivesStart = 10;
     public int life = nbrLivesStart, tick = 0;
     public static boolean run = true, left, right, up, down;
     public Pac pac;
@@ -35,7 +35,7 @@ public class PanelLogic extends JPanel implements Runnable {
     public ArrayList<DumbGhost> dumbGhostArray = new ArrayList<>();
     public Monster smartGhost;
     public ArrayList<Coin> coinArray = new ArrayList<>();
-    private int nbrCoins = 100, level = 1, nbrDumbGhosts = 2;
+    private int nbrCoins = 20, level = 1, nbrDumbGhosts = 2;
     private int resolution = 10;
     private int xMonsterStart = 400, yMonsterStart = 290, xPacStart = 750, yPacStart = 50, xDumbStart = 50, yDumbStart = 50;
     private int monsterWait = 8;
