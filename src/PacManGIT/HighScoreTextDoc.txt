@@ -8,7 +8,7 @@ Anders;190
 Hjalmarsson;186
 Adrian;177
 Annaclara;139
-Christoffer;120
+Christoffer;12
 null;0
 null;0
 null;0
